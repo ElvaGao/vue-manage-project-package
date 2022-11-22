@@ -1,0 +1,15 @@
+
+html,body,*,h1,h2,h3,h4,div,section{
+  margin: 0;
+  padding: 0;
+}
+html,body{
+  height: 100%;
+}
+.el-select{
+  width: 150px;
+}
+.el-select .el-input__inner{
+  height: 32px;
+  line-height: 32px;
+}
